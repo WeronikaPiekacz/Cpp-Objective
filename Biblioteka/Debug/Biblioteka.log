@@ -1,0 +1,20 @@
+﻿  Book.cpp
+  Film.cpp
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\Film.cpp(30,15): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Music.cpp
+  Person.cpp
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\Person.cpp(53,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  app.cpp
+  functions.cpp
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(7,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(62,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(40,6): warning C4101: "id": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(178,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(295,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(317,6): warning C4101: "ID_item": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(407,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(423,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(486,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\functions.cpp(35): warning C4715: "type_to_string”: niewszystkie ścieżki kodu zwracają wartość
+  Biblioteka.vcxproj -> C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\Debug\Biblioteka.exe

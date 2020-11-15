@@ -1,0 +1,10 @@
+1|BOOK|Witcher|Andrzej Sapkowski|FANTASY|Available
+2|BOOK|Lord of the Rings|J.R Tolkien|FANTASY|Available
+3|BOOK|Star Wars|George Lucas|SCI-FI|Available
+5|FILM|Star Wars|Lucas Film|3.500000|No available
+6|FILM|Monty Python and the Holy Grail|Terry Gilliam, Terry Jones|5.000000|No available
+7|MUSIC|Dead Town|Slow'mo|Slow'mo|Available
+8|MUSIC|Spis dziel Sycylijskich|Avi|Louis Villain|No available
+9|FILM|Krol Lew 2|Derrell Rooney|5.000000|No available
+10|FILM|Aquaman|James Wan|4.200000|Available
+11|BOOK|Rouge|Bernard Cornwell|CRIMINAL|Available

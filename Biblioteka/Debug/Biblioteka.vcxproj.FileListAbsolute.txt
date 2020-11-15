@@ -1,0 +1,6 @@
+C:\Users\Werka\source\repos\Biblioteka\Debug\Biblioteka.exe
+C:\Users\Werka\source\repos\Biblioteka\Debug\Biblioteka.pdb
+C:\Users\Werka\Desktop\Edukacja\PK3\Biblioteka\Biblioteka\Debug\Biblioteka.exe
+C:\Users\Werka\Desktop\Edukacja\PK3\Biblioteka\Biblioteka\Debug\Biblioteka.pdb
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\Debug\Biblioteka.exe
+C:\Users\Werka\Desktop\Edukacja\PK3\GitHubPK3\Projekt\Biblioteka\Debug\Biblioteka.pdb

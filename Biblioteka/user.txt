@@ -1,0 +1,8 @@
+1|Adam Gwozdz||
+2|Werka Piekacz||
+3|Jan Kowalski||
+4|Nadia Piekacz|6 |
+6|Werka Piekacz||
+7|Grzegorz Grzmot||
+8|Gracjan Pudelko|9 |
+10|Adrian Piekacz|8 5 |
